@@ -22,7 +22,7 @@ b) квадратного уровнения
 файлах line.py, square.py, exp.py соответственно.
 
 Чтение из файлов и запись в файл осуществляется
-read_files.py и write_in_file.py соответственно.
+read_files.py и write_file.py соответственно.
 
 Расчёт ожидаемого значения в futureValue.py.
 
